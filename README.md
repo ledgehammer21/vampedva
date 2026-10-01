@@ -12,6 +12,11 @@ Static HTML mockups for the revised vampedva.com. Each page is self-contained (C
 | Referral Partners | `referral-partners.html` |
 | Book a Discovery Call | `book-a-call.html` |
 
+## Live preview
+
+Every push to this branch is deployed to GitHub Pages by `.github/workflows/pages.yml`:
+https://ledgehammer21.github.io/vampedva/
+
 ## Preview locally
 
 ```sh
